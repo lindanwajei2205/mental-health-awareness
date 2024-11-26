@@ -1,0 +1,37 @@
+/* google font import */
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Macondo&display=swap');
+
+
+h1,
+h2,
+h3{
+    font-family: 'Macondo', cursive;
+}
+
+
+p{
+    font-family: 'Lora', serif;
+}
+    
+
+
+
+
+/* hero section */
+
+.hero{
+    /* background: linear-gradient(rgba(0,0,0,0.5), rgba(238, 188, 214, 0.5)), url(../images/hero.jpg) center/cover no-repeat; */
+   background-image: url("../images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+    
+}
+
+/* main section */
+.rounded-img{
+    width: 150px;
+    height: 150px ;
+}
