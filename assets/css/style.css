@@ -2,118 +2,122 @@
 @import url("https://fonts.googleapis.com/css2?family=Anton&family=Coiny&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Ramabhadra&family=Ramaraja&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap");
 
 body {
-  margin: 0;
-  padding: 0;
-  font-family: "Montserrat", sans-serif;
-  font-size: 1rem;
-  line-height: 1.6;
-  color: var(--color-text, #333333);
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--color-text, #333333);
 }
 
 :root {
-  --color-primary: #185D8C;
-  --color-secondary: #2ecc71;
-  --color-tertiary: #f1c40f;
-  --color-text: #333333;
-  --color-nav-link: #2b2b2b;
-  --color-nav-link-hover: #3088c2;
-  --color-nav-link-active: #185D8C;
-  --color-carousel-icon: rgb(42, 41, 41);
-  --color-affirmative-bg: #ffffff;
-  --color-affirmative-text: #2b2b2b;
+    --color-primary: #185D8C;
+    --color-secondary: #2ecc71;
+    --color-tertiary: #f1c40f;
+    --color-text: #333333;
+    --color-nav-link: #2b2b2b;
+    --color-nav-link-hover: #3088c2;
+    --color-nav-link-active: #185D8C;
+    --color-carousel-icon: rgb(42, 41, 41);
+    --color-affirmative-bg: #ffffff;
+    --color-affirmative-text: #2b2b2b;
 }
 
 .bg-primary {
-  background-color: var(--color-primary);
+    background-color: var(--color-primary);
 }
 
 .bg-secondary {
-  background-color: var(--color-secondary) !important;
+    background-color: var(--color-secondary) !important;
 }
 
 .bg-tertiary {
-  background-color: var(--color-tertiary);
+    background-color: var(--color-tertiary);
 }
 
 .text-gray {
-  color: var(--color-text);
+    color: var(--color-text);
 }
 
 h1 {
-  font-family: "Anton", sans-serif;
+    font-family: "Anton", sans-serif;
 }
 
-h2, h3, h4, h5, h6 {
-  font-family: "Ramaraja", sans-serif;
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Ramaraja", sans-serif;
 }
 
 .font-sour-gummy {
-  font-family: "Sour Gummy", sans-serif;
+    font-family: "Sour Gummy", sans-serif;
 }
 
 .font-ramabhadra {
-  font-family: "Ramabhadra", sans-serif;
+    font-family: "Ramabhadra", sans-serif;
 }
 
 .font-ramaraja {
-  font-family: "Ramaraja", sans-serif;
+    font-family: "Ramaraja", sans-serif;
 }
 
 .nav-link {
-  color: var(--color-nav-link);
-  font-size: 1.3rem;
-  font-family: "Ramaraja", sans-serif;
+    color: var(--color-nav-link);
+    font-size: 1.3rem;
+    font-family: "Ramaraja", sans-serif;
 }
 
 .nav-link:hover {
-  color: var(--color-nav-link-hover);
+    color: var(--color-nav-link-hover);
 }
 
 .nav-link.active {
-  color: var(--color-nav-link-active) !important;
-  font-weight: 600;
+    color: var(--color-nav-link-active) !important;
+    font-weight: 600;
 }
-
-.text-shadow {
-  font-size: 1.9rem !important;
-  font-weight: 900;
-  text-shadow: 1px 1px 1px #000000;
-}
-
-
 
 
 .hero {
-  background-image: url("../images/hero.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  height: auto;
-  width: 100%;
+    background-image: url("../images/hero.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: auto;
+    width: 100%;
+}
+
+.hero-text {
+    font-weight: 800;
+    padding: 10px;
+    font-size: 1.5rem;
+    color: #ffffff;
+    text-shadow: 1px 1px 1px #000000;
 }
 
 
 /* main section */
 .rounded-img {
-  width: 180px;
-  height: 180px;
+    width: 180px;
+    height: 180px;
 }
 
 .tips-card {
-  min-height: 590px;
+    min-height: 610px;
 }
 
 .card-text {
-  font-size: 1rem;
+    font-size: 1rem;
 }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
-  background-color: var(--color-carousel-icon);
-  border-radius: 50%;
+    background-color: var(--color-carousel-icon);
+    border-radius: 50%;
 }
 
 .affirmative-card {
-  background-color: var(--color-affirmative-bg);
-  color: var(--color-affirmative-text);
+    background-color: var(--color-affirmative-bg);
+    color: var(--color-affirmative-text);
 }
