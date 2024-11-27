@@ -8,7 +8,7 @@ Responsive View
 
 ![Responsive Mockup](documentation/responsive.png)
 
-Wireframe
+Wireframes
  - Laptop
 
  ![Laptop Screen](documentation/mindhaven-desktop-screen.png)
