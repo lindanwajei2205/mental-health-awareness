@@ -9,6 +9,17 @@ Responsive View
 ![Responsive Mockup](documentation/responsive.png)
 
 Wireframe
+ - Laptop
+
+ ![Laptop Screen](documentation/mindhaven-desktop-screen.png)
+
+ - Tablet
+
+ ![Tablet Screen](documentation/mindhaven-tablet-screen.png)
+
+  - Mobile
+
+ ![Tablet Screen](documentation/mindhaven-mobile-screen.png)
 
 ## Technology Stack
 
@@ -148,9 +159,16 @@ The live link can be found here - https://lindanwajei2205.github.io/mental-healt
 
 ### Content 
  - Some of the text content were generated with [ChatGPT](https://chat.openai.com/)
-
+ - Mental health websites linked as resource: 
+  [NHS](https://www.nhs.uk/) ,
+  [Mind](https://www.mind.org.uk) ,
+  [YMM](https://ymm.org.uk/) ,
+  [WHO](https://www.who.int/)
  
 ### Media
  - Icons were taken from  [Font Awesome](https://fontawesome.com/)
  - Fonts were taken from [Google Fonts](https://google.com)
  - Images were taken from [Pixels](https://unsplash.com/), [Google](https://www.google.com/) and [Unsplash](https://unsplash.com/)
+
+### Others
+ - Wireframe tool - [Balsamiq](https://balsamiq.com/)
