@@ -140,6 +140,8 @@ Trailing slash detected by HTML Validator.The issues were fix.
 ![Checking Foreground and Background Color ](documentation/1.check-constrast.png)
 ![Checking Foreground and Background Color](documentation/2.check-constrast.png)
 
+- Lighthouse
+![Lighthouse](documentation/lighthouse.png)
 
 ### Unfixed Bugs
 
