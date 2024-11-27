@@ -16,6 +16,15 @@ HTML, CSS, and Bootstrap form the robust foundation of the site, delivering a se
 
 Responsive Excellence with Bootstrap framework - enabling the site to adapt effortlessly to diverse devices and screen sizes, ensuring an intuitive and consistent user experience across all platforms.
 
+## User Stories
+
+- As a site visitor, I want to access a welcoming, calm, and easy-to-navigate website.
+- As a user, I want to find information on common mental health issues to help me recognize them in myself and others.
+- As a user, I want practical tips on managing mental health issues to improve my well-being and resilience.
+- As a user, I want to have access to trusted external resources that can deepen my understanding and provide additional support when needed.
+- As a user I want to access a section with positive affirmations that would help strengthened not just my mood but my mind
+- As a user, I want to access Mindhaven’s social media pages to stay updated on new articles and keep up with the latest trends.
+
 ## Features 
 
 - **Accessible and Engaging Content:** Designed with newcomers in mind, this platform introduces the essentials of mental health awareness, offering clear insights into mental well-being, recognizing common challenges, and practical stress management strategies.
@@ -132,7 +141,7 @@ The few syntax errors detected during the test phase were fixed and re-tested. N
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://github.com/lindanwajei2205/mental-health-awareness/index.html 
+The live link can be found here - https://lindanwajei2205.github.io/mental-health-awareness
 
 
 ## Credits 
